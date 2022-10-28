@@ -1,0 +1,122 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+}
+
+.topContainer{
+    background-color: #FFC4C4;
+    color:#600B27;
+    display: block;
+    position:relative;
+    padding:20px 20px 0px;
+}
+
+.profilePicture{
+    max-width: 29%;
+    border-radius: 50%;
+    margin: 70px 0 30px;
+}
+
+.profile-description{
+    margin: auto;
+    width:45%;
+    line-height: 2;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#600B27;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#600B27;
+    font-weight:bold;
+}
+
+hr{
+    margin: 60px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #600B27;
+    width:20%
+}
+
+
+a{
+    color:#600B27;
+}
+
+p{
+    padding:1.5em;
+}
+
+.cloud1{
+    position: absolute;
+    top:40px;
+    left:75%;
+    width: 19%;
+}
+
+.cloud2{
+    position:absolute;
+    left:8%;
+    width:28%;
+}
+
+.mountain{
+    position:relative;
+    width:72%    
+}
+
+.middleContainer{
+    background-color: #FFF5E4;
+}
+
+.skill-row{
+    width: 50%;
+    margin:40px auto;
+    text-align: left;
+    line-height: 2;
+}
+.bottomContainer{
+    background-color: #EE6983;
+}
+
+
+
+.skillPhoto{
+    max-width: 33%;
+}
+
+.spanishPhoto{
+    margin-right: 30px;
+    float:left;
+}
+
+.cookingPhoto{
+    float:right;
+    margin-left: 10px;
+}
+
+/* .spanish-skill-description{
+    clear:left;
+}
+
+.cooking-skill-description{
+    clear:right;
+} */
